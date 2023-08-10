@@ -2,6 +2,10 @@
 # COVID-19 Global Trends Analysis
 ![image](https://github.com/iamasprout/Covid19/assets/114030254/d9177c55-b9c7-435a-bfd8-d7fe68618f78)
 
+![ezgif com-video-to-gif](https://github.com/iamasprout/sample/assets/114030254/e1ad212d-18e9-4428-9171-01ae50461b1c)
+
+
+
 COVID-19 Global Trends Analysis is a project that aims to analyze the global trends of COVID-19 in all nations, including the death rate, survival rate, and the most affected parts of the world. The analysis is based on data on COVID-19 cases, deaths, hospitalizations, and tests, which is updated daily by Our World in Data.
 
 ## Usage
